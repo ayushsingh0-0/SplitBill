@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517858524750",
+    "project_id": "splitbill-15b90",
+    "storage_bucket": "splitbill-15b90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517858524750:android:7899083a2c3f6c57f20d1f",
+        "android_client_info": {
+          "package_name": "com.ayush.splitbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517858524750-tpp29d3tsr86mhlu4qfk9qmdd8lgdnng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wmWf7cPm2vHouyaeTzVu-Yjt_iKJoS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517858524750-tpp29d3tsr86mhlu4qfk9qmdd8lgdnng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
